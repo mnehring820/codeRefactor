@@ -19,3 +19,7 @@ The CSS code has style sections for each individual "id" and "class" even when s
 ## Code Accessability solutions
 
 The CSS code numerous repetitive style elements. In order to shorten the code and make it more accessbile the elements that had the same styling were able to be listed together, separated by commas, and followed by the styling to be used for all. The elements were able to be grouped in threes which allowed for the CSS to be shortened up quite a bit. 
+
+## Credits
+
+The source code for this project is from our Rutgers Coding Bootcamp repository on Github: https://github.com/RutgersCodingBootcamp/RUT-SOM-FSF-FT-10-2020-U-C
